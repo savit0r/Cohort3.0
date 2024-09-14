@@ -1,0 +1,45 @@
+
+body{
+    background-color:black;
+}
+.Toolkit{
+    padding-left: 20px;
+    color: azure;
+    cursor: pointer;
+}
+
+.left{
+    color: aliceblue;
+    padding-top: 130px;
+    padding-left: 120px;
+}
+
+.bold{
+    font-weight: 800;
+    font-size:40px;
+}
+
+button{
+        border: none;
+        color: white;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 2px;
+        border-radius: 50px;
+}
+
+.button1{
+    color: rgb(52, 52, 52);
+    border: 2px solid black;
+    border-color: rgb(52, 52, 52);
+    background-color: rgb(12, 12, 12) ;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+    border-width: 2px;
+}
